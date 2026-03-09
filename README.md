@@ -45,7 +45,7 @@ dbSecurity-bot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/wa130/dbSecurity-bot.git
+git clone https://github.com/nasyuwaikrima/dbSecurity-bot.git
 cd dbSecurity-bot
 ```
 
