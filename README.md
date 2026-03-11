@@ -80,13 +80,6 @@ Example of the dashboard interface:
 
 ---
 
-## Join Our WhatsApp Channel
-
-Stay updated with the latest features, tips, and bot news:  
- https://whatsapp.com/channel/0029Vb8W9HoB4hdKDbqoWI3m
-
----
-
 ##  License
 
 This project is licensed under the **MIT License**.  
