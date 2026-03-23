@@ -1,6 +1,4 @@
 
-
-# dbSecurity-bot
 #  dbSecurity-bot
 
 A modern and lightweight **REST API system for security management**, built with **Next.js 15** using App Router, TailwindCSS, and a local JSON-based database. Suitable for admin dashboards, internal tools, or bot integrations.
