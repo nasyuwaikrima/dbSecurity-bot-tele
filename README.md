@@ -68,16 +68,6 @@ Then open your browser:
 
 ---
 
-##  Screenshot
-
-Example of the dashboard interface:
-
-![Dashboard Preview](https://via.placeholder.com/1000x600?text=Preview+Dashboard+dbSecurity-bot)
-
-> ?? Replace the placeholder above with your actual dashboard screenshot (upload it to `/public`).
-
----
-
 ##  License
 
 This project is licensed under the **MIT License**.  
